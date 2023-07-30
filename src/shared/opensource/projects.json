@@ -1,0 +1,131 @@
+{
+  "data": [
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Al-Tabeeb",
+      "createdAt": "Jun 2022",
+      "url": "https://github.com/masoodtariq/Al-Tabeeb",
+      "description": "A Decentralized and secure, online hospital management system where patients can securely get appointment from doctor and get the prescription after checkup.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Angular",
+          "iconifyClass": "logos-angular"
+        },
+        {
+          "name": "Etherium",
+          "iconifyClass": "logos-ethereum"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkxNTU5NTE3NTk=",
+      "name": "Smart Hostel System",
+      "createdAt": "Apr 2019",
+      "url": "https://github.com/masoodtariq/Smart-Hostel-System",
+      "description": "A hostel management system is a desktop application designed in java to streamline and automate various administrative tasks and operations within a hostel or similar accommodation facility.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Java",
+          "iconifyClass": "logos-java"
+        },
+        {
+          "name": "MySQL",
+          "iconifyClass": "logos-mysql"
+        },
+        {
+          "name": "Firebase",
+          "iconifyClass": "logos-firebase"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNzM1MTI1NTE=",
+      "name": "Portfolio Website",
+      "createdAt": "July 2022",
+      "url": "https://github.com/masoodtariq/masoodtariq-github.io",
+      "description": "A web-based portfolio website to showcase my experience and skills to the world. It was built using Reactjs, Nodejs and CSS.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "nodeJS",
+          "iconifyClass": "logos-nodejs"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "name": "Shop Inn",
+      "createdAt": "May 2020",
+      "url": "https://github.com/masoodtariq/Shop-Inn",
+      "description": "A shopping website that mainly focused on database operations. It has most of the online store features like buy products, make reservations, apply discounts and many more. ",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "Javascript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "MySQL",
+          "iconifyClass": "logos-mysql"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNjkwNzUwMjM=",
+      "name": "Daily-Mart",
+      "createdAt": "Oct 2022",
+      "url": "https://github.com/masoodtariq/daylimart",
+      "description": "An Ecommerce store that was developed to apply the concepts we learned during our SAP CX training. It had all the features of an ecommerce store including payments, guest checkouts etc.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "SAP",
+          "iconifyClass": "logos:sap"
+        },
+        {
+          "name": "Java",
+          "iconifyClass": "logos:java"
+        },
+        {
+          "name": "Spring Boot",
+          "fontAwesomeClassname": "simple-icons:springboot"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkxODIxMjk3NTQ=",
+      "name": "Contactless Attendance System",
+      "createdAt": "Jan 2021",
+      "url": "https://github.com/masoodtariq/Real-Time-Class-Attendace-System",
+      "description": "An Ai based attendance application made in python that uses facial detection and recognition algorithms to take the attendance in the range of the camera. It then stored the result in an excel file which can then be exported.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "PYTHON",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Tensorflow",
+          "iconifyClass": "logos-tensorflow"
+        },
+        {
+          "name": "Numpy",
+          "iconifyClass": "logos-numpy"
+        }
+      ]
+    }
+  ]
+}
