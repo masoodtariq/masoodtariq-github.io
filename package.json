@@ -1,7 +1,7 @@
 {
   "private": true,
-  "name": "mkfolio",
-  "homepage": "https://muhammadkumail.com",
+  "name": "cheemaPortfolio",
+  "homepage": "https://masoodtariq.github.io/cheemaPortfolio",
   "version": "1.0.0",
   "scripts": {
     "build": "react-scripts build",
