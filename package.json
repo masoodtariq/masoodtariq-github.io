@@ -1,7 +1,7 @@
 {
   "private": true,
-  "name": "cheemaPortfolio",
-  "homepage": "https://masoodtariq.github.io/cheemaPortfolio",
+  "name": "masoodtariq.github.io",
+  "homepage": "https://masoodtariq.github.io/masoodtariq.github.io",
   "version": "1.0.0",
   "scripts": {
     "build": "react-scripts build",
