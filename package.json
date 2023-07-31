@@ -1,7 +1,7 @@
 {
   "private": false,
   "name": "masoodtariq.github.io",
-  "homepage": "http://masoodtariq.github.io/masoodtariq.github.io",
+  "homepage": "https://masoodtariq.github.io/masoodtariq.github.io",
   "version": "1.0.0",
   "scripts": {
     "build": "react-scripts build",
