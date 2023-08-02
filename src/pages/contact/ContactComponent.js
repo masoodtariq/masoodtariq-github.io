@@ -21,28 +21,28 @@ class Contact extends Component {
           ‍<title>Contact</title>‍
           <meta
             name="description"
-            content="Contact Muhammad Kumail aka TheRealMVP today"
+            content="Contact Masood Tariq"
           />
           <meta name="twitter:card" content="summary_large_image" />
-          <meta name="twitter:site" content="@iamkumaail" />{" "}
-          <meta name="twitter:creator" content="@iamkumaail" />{" "}
-          <meta name="twitter:title" content="Contact | TheRealMVP" />{" "}
+          <meta name="twitter:site" content="Masood Tariq_" />{" "}
+          <meta name="twitter:creator" content="Masood Tariq_" />{" "}
+          <meta name="twitter:title" content="Contact" />{" "}
           <meta
             property="twitter:url"
-            content="https://muhammadkumail.com/contact"
+            content="https://masoodtariq.github.io/contact"
           />
           <meta
             name="twitter:description"
-            content="Contact Muhammad Kumail aka TheRealMVP today"
+            content="Contact Masood Tariq"
           />{" "}
           <meta property="og:title" content="Contact Me" />{" "}
           <meta
             property="og:description"
-            content="Contact Muhammad Kumail aka TheRealMVP today"
+            content="Contact Masood Tariq"
           />
           <meta
             property="og:url"
-            content="https://muhammadkumail.com/contact"
+            content="https://https://masoodtariq.github.io/contact"
           />
           <meta property="og:locale" content="en_US" />
           <meta property="og:type" content="article" />
@@ -78,7 +78,7 @@ class Contact extends Component {
                 <div className="resume-btn-div">
                   <Button
                     text="Reach me via email"
-                    href="mailto:mkumailofficial@gmail.com"
+                    href="mailto:masoodtariq075@gmail.com"
                     theme={theme}
                   />
                 </div>

@@ -14,25 +14,25 @@ class Home extends Component {
           ‍<title>Masood Tariq</title>‍
           <meta
             name="description"
-            content="Muhammad Kumail (therealmvp) is a Full Stack Developer, Public Speaker, and a student mentor. Kumail is also an AWS Educate Cloud Ambassador, Microsoft Learn Student Ambassador and former Google Developers Student Club Lead at NUST"
+            content="Masood Tariq is a Software Engineer, Public Speaker, and a fitness Enthusiast. Masood is also a freelancer, digital marketing guru and a NUST graduate. Currently lives in Pakistan Sialkot. Eagers to join Fashion industry"
           />
-          <meta name="twitter:site" content="@iamkumaail" />{" "}
-          <meta name="twitter:creator" content="@iamkumaail" />{" "}
+          <meta name="twitter:site" content="MasoodTariq_" />{" "}
+          <meta name="twitter:creator" content="MasoodTariq_" />{" "}
           <meta name="twitter:title" content="Resume" />{" "}
           <meta
             property="twitter:url"
-            content="https://muhammadkumail.com/home"
+            content="https://https://masoodtariq.github.io/home"
           />
           <meta
             name="twitter:description"
-            content="Muhammad Kumail (therealmvp) is a Full Stack Developer, Public Speaker, and a student mentor. Kumail is also an AWS Educate Cloud Ambassador, Microsoft Learn Student Ambassador and former Google Developers Student Club Lead at NUST"
+            content="Masood Tariq is a Software Engineer, Public Speaker, and a fitness Enthusiast. Masood is also a freelancer, digital marketing guru and a NUST graduate. Currently lives in Pakistan Sialkot. Eagers to join Fashion industry"
           />
           <meta property="og:title" content="Masood Tariq" />{" "}
           <meta
             property="og:description"
-            content="Muhammad Kumail (therealmvp) is a Full Stack Developer, Public Speaker, and a student mentor. Kumail is also an AWS Educate Cloud Ambassador, Microsoft Learn Student Ambassador and former Google Developers Student Club Lead at NUST"
+            content="Masood Tariq is a Software Engineer, Public Speaker, and a fitness Enthusiast. Masood is also a freelancer, digital marketing guru and a NUST graduate. Currently lives in Pakistan Sialkot. Eagers to join Fashion industry"
           />
-          <meta property="og:url" content="https://muhammadkumail.com/" />
+          <meta property="og:url" content="https://masoodtariq.github.io/" />
           <meta
             property="og:site_name"
             content="Masood Tariq"

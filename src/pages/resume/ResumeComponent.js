@@ -25,7 +25,7 @@ class Resume extends Component {
           <meta property="og:type" content="article" />
         </Helmet>
         <embed
-          src={require(`../../assests/documents/Masood.pdf`)}
+          src={require(`../../assests/documents/masood.pdf`)}
           type="application/pdf"
           className="embed-resume"
         />
