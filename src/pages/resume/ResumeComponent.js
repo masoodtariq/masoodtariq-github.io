@@ -9,17 +9,17 @@ class Resume extends Component {
         <Helmet>
           ‍<title>Resume</title>‍
           <meta name="description" content="Here's my Resume :D" />
-          <meta name="twitter:site" content="@iamkumaail" />{" "}
-          <meta name="twitter:creator" content="@iamkumaail" />{" "}
+          <meta name="twitter:site" content="MasoodTariq_" />{" "}
+          <meta name="twitter:creator" content="MasoodTariq_" />{" "}
           <meta name="twitter:title" content="Resume" />{" "}
           <meta
             property="twitter:url"
-            content="https://muhammadkumail.com/resume"
+            content="https://masoodtariq.github.io/resume"
           />
           <meta name="twitter:description" content="Here's my Resume :D" />{" "}
           <meta property="og:title" content="Resume" />{" "}
           <meta property="og:description" content="Here's my Resume :D" />
-          <meta property="og:url" content="https://muhammadkumail.com/resume" />
+          <meta property="og:url" content="https://masoodtariq.github.io/resume" />
           <meta property="og:site_name" content="Resume" />
           <meta property="og:locale" content="en_US" />
           <meta property="og:type" content="article" />
