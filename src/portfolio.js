@@ -13,7 +13,7 @@ const greeting = {
   subTitle:
     "Computer Scientist💻-Fitness Freak🏋️‍♂️-Public Speaker🎤",
   resumeLink:
-    "https://drive.google.com/file/d/1D5H3mj1rUsYro5KcatPu5sA-UJ_0Uulb/view?usp=sharing",
+    "https://drive.google.com/file/d/1E1k8wzJhPUKmFiS-xNQtwMWq4OY8crH3/view?usp=sharing",
   portfolio_repository: "https://github.com/masoodtariq",
 };
 
