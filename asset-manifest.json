@@ -1,22 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.0e76ff4b.chunk.css",
-    "main.js": "/static/js/main.6767f7e3.chunk.js",
-    "main.js.map": "/static/js/main.6767f7e3.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.858c49f2.js",
-    "runtime-main.js.map": "/static/js/runtime-main.858c49f2.js.map",
+    "main.js": "/static/js/main.b88fe058.chunk.js",
+    "main.js.map": "/static/js/main.b88fe058.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b4c45936.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b4c45936.js.map",
     "static/js/2.fa051eab.chunk.js": "/static/js/2.fa051eab.chunk.js",
     "static/js/2.fa051eab.chunk.js.map": "/static/js/2.fa051eab.chunk.js.map",
     "static/css/3.1fd892bf.chunk.css": "/static/css/3.1fd892bf.chunk.css",
-    "static/js/3.e9c63d1b.chunk.js": "/static/js/3.e9c63d1b.chunk.js",
-    "static/js/3.e9c63d1b.chunk.js.map": "/static/js/3.e9c63d1b.chunk.js.map",
+    "static/js/3.7230c608.chunk.js": "/static/js/3.7230c608.chunk.js",
+    "static/js/3.7230c608.chunk.js.map": "/static/js/3.7230c608.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.9d7947ccbfef44d9bb3a8457b738f93e.js": "/precache-manifest.9d7947ccbfef44d9bb3a8457b738f93e.js",
+    "precache-manifest.aa6ff14ffc2622cb4f1115f17b6d6ede.js": "/precache-manifest.aa6ff14ffc2622cb4f1115f17b6d6ede.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.1fd892bf.chunk.css.map": "/static/css/3.1fd892bf.chunk.css.map",
     "static/css/main.0e76ff4b.chunk.css.map": "/static/css/main.0e76ff4b.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
-    "static/media/Masood.pdf": "/static/media/Masood.4a56d348.pdf",
     "static/media/MasoodPic.png": "/static/media/MasoodPic.2e23bf6d.png",
     "static/media/UNICEF-logo.png": "/static/media/UNICEF-logo.0444d8df.png",
     "static/media/acmnust.png": "/static/media/acmnust.dd26271d.png",
@@ -61,6 +60,7 @@
     "static/media/legato_logo.png": "/static/media/legato_logo.4ba886ba.png",
     "static/media/macquarie.png": "/static/media/macquarie.e395b805.png",
     "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
+    "static/media/masood.pdf": "/static/media/masood.4a56d348.pdf",
     "static/media/mcn-logo.png": "/static/media/mcn-logo.0b212d38.png",
     "static/media/mk.svg": "/static/media/mk.268edbf8.svg",
     "static/media/muffito_logo.png": "/static/media/muffito_logo.db6c1c0d.png",
@@ -85,9 +85,9 @@
     "static/media/ui_ux_design.svg": "/static/media/ui_ux_design.67a6a11c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.858c49f2.js",
+    "static/js/runtime-main.b4c45936.js",
     "static/js/2.fa051eab.chunk.js",
     "static/css/main.0e76ff4b.chunk.css",
-    "static/js/main.6767f7e3.chunk.js"
+    "static/js/main.b88fe058.chunk.js"
   ]
 }
