@@ -363,7 +363,7 @@ const certifications = {
       subtitle: "- AWS Training",
       logo_path: "aws-logo.png",
       certificate_link:
-        "https://drive.google.com/file/d/1ZgBpxWNxZtAmbkCeqpLUnNVTV-85q9o0/view?usp=sharing",
+        "https://drive.google.com/file/d/13FLmLsAbbl9wuBU1EoHbvAADgXsDOIr4/view?usp=sharing",
       alt_name: "AWS",
       color_code: "#222E3C",
     },
