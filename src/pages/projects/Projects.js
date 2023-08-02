@@ -20,27 +20,27 @@ class Projects extends Component {
           ‍<title>Projects</title>‍
           <meta
             name="description"
-            content="What's better when Kumail's project speak for itself and explains his tech skills in a better way"
+            content="What's better when Masood's project speak for itself and explains his tech skills in a better way"
           />
-          <meta name="twitter:site" content="@iamkumaail" />{" "}
-          <meta name="twitter:creator" content="@iamkumaail" />{" "}
+          <meta name="twitter:site" content="@MasoodTariq_" />{" "}
+          <meta name="twitter:creator" content="@MasoodTariq_" />{" "}
           <meta name="twitter:title" content="Projects" />{" "}
           <meta
             property="twitter:url"
-            content="https://muhammadkumail.com/projects"
+            content="https://masoodtariq.github.io/projects"
           />
           <meta
             name="twitter:description"
-            content="What's better when Kumail's project speak for itself and explains his tech skills in a better way"
+            content="What's better when Masood's project speak for itself and explains his tech skills in a better way"
           />{" "}
           <meta property="og:title" content="Projects" />{" "}
           <meta
             property="og:description"
-            content="What's better when Kumail's project speak for itself and explains his tech skills in a better way"
+            content="What's better when Masood's project speak for itself and explains his tech skills in a better way"
           />
           <meta
             property="og:url"
-            content="https://muhammadkumail.com/projects"
+            content="https://masoodtariq.github.io/projects"
           />
           <meta property="og:locale" content="en_US" />
           <meta property="og:type" content="article" />

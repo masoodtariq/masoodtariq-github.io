@@ -24,12 +24,12 @@ class BlogsComponent extends Component {
             content="Wanna know more about what I write? Here's everything you would be needing to know more about me"
           />
           <meta name="twitter:card" content="summary_large_image" />
-          <meta name="twitter:site" content="@iamkumaail" />{" "}
-          <meta name="twitter:creator" content="@iamkumaail" />{" "}
+          <meta name="twitter:site" content="@MasoodTariq_" />{" "}
+          <meta name="twitter:creator" content="@MasoodTariq_" />{" "}
           <meta name="twitter:title" content="Blogs" />
           <meta
             property="twitter:url"
-            content="https://muhammadkumail.com/blogs"
+            content="https://masoodtariq.github.io/blogs"
           />
           <meta
             name="twitter:description"
@@ -42,7 +42,7 @@ class BlogsComponent extends Component {
             content="Wanna know more about what I write? Here's everything you would be needing to know more about me"
           />
           <meta property="og:image" content="url_to_image" />
-          <meta property="og:url" content="https://muhammadkumail.com/blogs" />
+          <meta property="og:url" content="https://masoodtariq.github.io/blogs" />
           <meta property="og:site_name" content="Blogs " />
           <meta property="og:locale" content="en_US" />
           <meta property="og:type" content="article" />
