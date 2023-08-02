@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.0e76ff4b.chunk.css",
-    "main.js": "/static/js/main.0eb4d06b.chunk.js",
-    "main.js.map": "/static/js/main.0eb4d06b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b4c45936.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b4c45936.js.map",
+    "main.js": "/static/js/main.b186a602.chunk.js",
+    "main.js.map": "/static/js/main.b186a602.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ab8d5172.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ab8d5172.js.map",
     "static/js/2.fa051eab.chunk.js": "/static/js/2.fa051eab.chunk.js",
     "static/js/2.fa051eab.chunk.js.map": "/static/js/2.fa051eab.chunk.js.map",
     "static/css/3.1fd892bf.chunk.css": "/static/css/3.1fd892bf.chunk.css",
-    "static/js/3.7230c608.chunk.js": "/static/js/3.7230c608.chunk.js",
-    "static/js/3.7230c608.chunk.js.map": "/static/js/3.7230c608.chunk.js.map",
+    "static/js/3.6e72a001.chunk.js": "/static/js/3.6e72a001.chunk.js",
+    "static/js/3.6e72a001.chunk.js.map": "/static/js/3.6e72a001.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.f05ea9891ec5e2f7c424a931fbc36af5.js": "/precache-manifest.f05ea9891ec5e2f7c424a931fbc36af5.js",
+    "precache-manifest.57ed931b420d43f958dde9bcc78f2424.js": "/precache-manifest.57ed931b420d43f958dde9bcc78f2424.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.1fd892bf.chunk.css.map": "/static/css/3.1fd892bf.chunk.css.map",
     "static/css/main.0e76ff4b.chunk.css.map": "/static/css/main.0e76ff4b.chunk.css.map",
@@ -60,7 +60,6 @@
     "static/media/legato_logo.png": "/static/media/legato_logo.4ba886ba.png",
     "static/media/macquarie.png": "/static/media/macquarie.e395b805.png",
     "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
-    "static/media/masood.pdf": "/static/media/masood.4a56d348.pdf",
     "static/media/mcn-logo.png": "/static/media/mcn-logo.0b212d38.png",
     "static/media/mk.svg": "/static/media/mk.268edbf8.svg",
     "static/media/muffito_logo.png": "/static/media/muffito_logo.db6c1c0d.png",
@@ -74,6 +73,7 @@
     "static/media/ptcl.png": "/static/media/ptcl.ffa9e586.png",
     "static/media/pwa.png": "/static/media/pwa.bd5f4148.png",
     "static/media/quantaleap.png": "/static/media/quantaleap.bf236ba2.png",
+    "static/media/resume.pdf": "/static/media/resume.4a56d348.pdf",
     "static/media/romi-logo.png": "/static/media/romi-logo.b9210e04.png",
     "static/media/royalcyber.png": "/static/media/royalcyber.33533403.png",
     "static/media/shiftcrowd.png": "/static/media/shiftcrowd.5a31f237.png",
@@ -85,9 +85,9 @@
     "static/media/ui_ux_design.svg": "/static/media/ui_ux_design.67a6a11c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b4c45936.js",
+    "static/js/runtime-main.ab8d5172.js",
     "static/js/2.fa051eab.chunk.js",
     "static/css/main.0e76ff4b.chunk.css",
-    "static/js/main.0eb4d06b.chunk.js"
+    "static/js/main.b186a602.chunk.js"
   ]
 }
